@@ -1,0 +1,2 @@
+# Haruka
+Discord Bot
